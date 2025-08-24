@@ -120,12 +120,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 👤 **Author**  
-
-👨‍💻 **Pinak Gupta**  
-
----
-
 ## 🌟 **Acknowledgements**  
 
 - 💡 Inspiration for this project came from the need to simplify real estate transactions.
